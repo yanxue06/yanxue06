@@ -4,4 +4,5 @@ I am 18-year-old first year Computer Engineering student at the University of Wa
   * 💼 I'm currenty working at as an SWE Intern @[HongMall](https://www.hongmall.com/index.php/en/home-english-2/), and previously as an automation developer at Skynet Security System
   * 🌱 In my free time, I love working on personal projects, playing the guitar, and spending time with my family and friends
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanxue06&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanxue06&hide=jupyter%20notebook&layout=compact&theme=dark)
+
