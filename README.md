@@ -5,5 +5,4 @@ I am 18-year-old first year Computer Engineering student at the University of Wa
   * 🌱 In my free time, I love working on guitar, chess, soccer, and developing! 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanxue06&hide=jupyter%20notebook&layout=compact&theme=dark)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxue06)](https://github.com/yanxue06/github-readme-stats)
 
