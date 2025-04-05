@@ -6,4 +6,3 @@ I am 18-year-old first year Computer Engineering student at the University of Wa
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanxue06&hide=jupyter%20notebook&layout=compact&theme=dark)
 
-![](https://komarev.com/ghpvc/?username=yanxue06)
