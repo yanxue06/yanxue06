@@ -6,5 +6,5 @@ I am 18-year-old first year Computer Engineering student at the University of Wa
 
 ![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxue06&hide=issues&show_icons=true&theme=radical)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanxue06&hide=jupyter%20notebook&hide=C&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanxue06&hide=jupyter%20notebook&,hide=c&layout=compact&theme=dark)
 
