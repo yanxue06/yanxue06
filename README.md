@@ -1,4 +1,4 @@
-## 🎆 Hey There 
+## 🎆 Hey Devs 
 
 I am 18-year-old first year Computer Engineering student at the University of Waterloo, who has a strong passion for Web Development, AI, and automation. 
   * 💼 I'm currenty working at as an SWE Intern @[HongMall](https://www.hongmall.com/index.php/en/home-english-2/), and previously as an software engineering intern at Skynet Security System
