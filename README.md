@@ -4,7 +4,7 @@ I am 18-year-old first year Computer Engineering student at the University of Wa
   * 💼 Currently looking for Fall 2025 internships! Prev SWE Intern @ [HongMall](https://www.hongmall.com/index.php/en/home-english-2/) and @ Skynet Security System
   * 🌱 In my free time, I love working on guitar, chess, soccer, and developing! 
 
-[![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxue06&hide=issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxue06&hide=issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanxue06&hide=c,jupyter%20notebook&layout=compact&theme=dark)
 
