@@ -1,7 +1,7 @@
 ## 🎆 Hey Devs 
 
 I am 18-year-old first year Computer Engineering student at the University of Waterloo, who has a strong passion for Web Development, AI, and automation. 
-  * 💼 Currently looking for Fall 2025 internships! Prev SWE Intern @ [HongMall](https://www.hongmall.com/index.php/en/home-english-2/) and @ [Skynet Security Systems](https://www.skynetsystems.ca)
+  * 💼 Currently looking for Fall 2025 internships! Prev SWE Intern @ [HongMall](https://www.hongmall.com/index.php/en/home-english-2/) and @ [Skynet Security Systems](https://www.skynetsystems.ca) (fun fact: I developed this website!) 
   * 🌱 In my free time, I love working on guitar, chess, soccer, and developing! 
 
 [![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxue06&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
