@@ -1,6 +1,7 @@
 ## 🎆 Hey Devs 
 
 ![shiba-gif](https://gist.githubusercontent.com/Chuncheonian/0b458eb00f72d648e65d69ab08ca16b8/raw/91dfc8ec23b03cae760d6635d397aaf879f51c16/shiba.gif)
+
 I am 18-year-old first year Computer Engineering student at the University of Waterloo, with a strong passion for the intersection of software engineering and AI. 
   * 💼 Incoming SWE Intern @ BitGo | Prev SWE Intern @ [HongMall](https://www.hongmall.com/index.php/en/home-english-2/) & @ [Skynet Security Systems](https://www.skynetsystems.ca)  
   * 🌱 In my free time, I love playing guitar, chess, soccer, and developing! 
