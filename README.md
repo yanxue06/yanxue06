@@ -4,7 +4,7 @@
 
 I am 18-year-old first year Computer Engineering student at the University of Waterloo, and am passionate about the Software Engineering and Conversational AI 
   * 💼 Incoming SWE Intern @ BitGo | Prev SWE Intern @ [HongMall](https://www.hongmall.com/index.php/en/home-english-2/) & @ [Skynet Security Systems](https://www.skynetsystems.ca)  
-  * 🌱 In my free time, I love playing guitar, chess, soccer, and developing! 
+  * 🌱 In my free time, I love playing guitar, chess, and soccer!! 
 
 [![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxue06&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
