@@ -6,7 +6,6 @@ I am 2nd year Computer Engineering student at the University of Waterloo, and am
   * 💼 Currently @ BitGo, check out my [linkedIn](https://www.linkedin.com/in/yanxue-ce/) for my past experiences
   * 🌱 In my free time, I love playing guitar, chess, and soccer!! 
 
-[![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxue06&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanxue06&hide=c,jupyter%20notebook&layout=compact&theme=dark)
+
 
