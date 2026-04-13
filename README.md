@@ -1,6 +1,6 @@
 ## 🎆 Hey Devs 
 
-I am 2nd year Computer Engineering student at the University of Waterloo, and am passionate about building tools that enhance developer experience. 
+I am 2nd year Computer Engineering student at the University of Waterloo, and am passionate about building dev tools
   * Currently learning Rust 
   * 💼 Prev. @[BitGo](https://www.bitgo.com/) & @[HongMall](https://www.hongmall.com/)
   * 🌱 I also love playing guitar, chess, frisbee, and am a huge foodie :) 
