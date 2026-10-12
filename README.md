@@ -1,4 +1,4 @@
-## 🎆 Hey Devs 
+## Hey Devs 
 
 I am 3rd year Computer Engineering student at the University of Waterloo, and am passionate about building time-saving tools
   * Currently learning Rust 
