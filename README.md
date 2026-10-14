@@ -2,7 +2,7 @@
 
 I am 3rd year Computer Engineering student at the University of Waterloo, and am passionate about building time-saving tools
   * Currently learning Rust 
-  * @[photon.codes](https://photon.codes/spectrum), prev. @[BitGo](https://www.bitgo.com/), @[HongMall](https://www.hongmall.com/)
+  * prev MTS @[photon.codes](https://photon.codes/spectrum), @[BitGo](https://www.bitgo.com/), @[HongMall](https://www.hongmall.com/)
   * 🌱 I also love playing guitar, chess, frisbee, and am a huge foodie :) 
   
 I also have a Shiba Inu. Looks something like this: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![shiba-gif](https://gist.githubusercontent.com/Chuncheonian/0b458eb00f72d648e65d69ab08ca16b8/raw/91dfc8ec23b03cae760d6635d397aaf879f51c16/shiba.gif)
